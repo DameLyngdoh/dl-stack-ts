@@ -1,5 +1,5 @@
 # Stack for TypeScript
-A stack implementation written in TypeScript with the general stack operations. Refer to the documentation or the code for a complete reference.
+A stack implementation written in TypeScript with the general stack operations. Refer to the documentation or the code for a complete reference. The documentation for this project was generated using [typedoc](https://github.com/TypeStrong/typedoc).
 
 ## Example
 The following code snippet is an example of how to use the class. The methods invoked here are not exhaustive of the methods of the stack.
